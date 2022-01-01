@@ -43,6 +43,5 @@ public class MonsterSpawner : MonoBehaviour
             spawnedMonster.transform.localScale = new Vector3(-1f, 1f, 1f);
         }
         }
-        
     }
 }
